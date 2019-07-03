@@ -1,0 +1,8 @@
+ipython
+
+# VIM editor requirements
+flake8
+pyflakes
+pep8-naming
+jedi
+neovim
