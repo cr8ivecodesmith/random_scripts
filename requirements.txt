@@ -1,4 +1,8 @@
-ipython
+jupyter
+
+# NOTE:
+# pytesseract requires the tesseract system application
+pytesseract
 
 # VIM editor requirements
 flake8
